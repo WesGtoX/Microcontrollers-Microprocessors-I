@@ -1,6 +1,6 @@
 # Microcontrollers and Microprocessors I
 
-Logic circuits with PIC and assembler.
+Logic circuits with PIC and assembly.
 
 Made in College.
 
