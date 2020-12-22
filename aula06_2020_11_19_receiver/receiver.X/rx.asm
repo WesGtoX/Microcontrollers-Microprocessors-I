@@ -1,3 +1,5 @@
+; Author: Wesley de Oliveira Mendes - 828507
+
 #include <p18F4550.inc>
 
  CONFIG FOSC = INTOSC_EC ; internal oscillator 

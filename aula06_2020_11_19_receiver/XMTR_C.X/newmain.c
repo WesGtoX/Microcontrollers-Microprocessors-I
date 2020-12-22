@@ -1,6 +1,8 @@
 /*
  * Programa de transmissão em C
  * USART do PIC18F4550
+ * 
+ * Author: Wesley de Oliveira Mendes - 828507
  */
 
 #include <xc.h>
